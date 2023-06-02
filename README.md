@@ -1,5 +1,4 @@
-# Chopper-Created-From-UnityLearn
-This game created from unity learn projects with completed bonus challenges 
+This game created from unity learn projects with completed bonus challenges.
 
 
 ## Gameplay Video
